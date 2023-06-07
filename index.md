@@ -4,8 +4,8 @@ title: Home
 # KVS SIVA KUMAR
 ## DevOps Engineer
 
-> [CV](./SivaKumar-CV.md)
-> [Resume](./index.md)
+> [CV](./SivaKumar-CV.md){:download="SivaKumar-CV.md"}
+> [Resume](./index.md){:download="Resume.md"}
 
 ## Profile
 Experienced DevOps Engineer with a successful track record in implementing incident resolution procedures, optimizing software delivery processes, and increasing system uptime. Continually seeking challenging opportunities to grow professionally.
