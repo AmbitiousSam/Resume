@@ -15,8 +15,8 @@ Experienced DevOps Engineer with a successful track record in implementing incid
 - [Github](https://github.com/AmbitiousSam/)
 - [Twitter](https://twitter.com/sivakumar36688)
 - [Bugcrowd](https://bugcrowd.com/sammy0304)
-- Phone: +91 9490647560 
-- Email: sk800489@gmail.com
+- [Phone](tel:+91 9490647560)
+- [Email](mailto:sk800489@gmail.com)
 
 ## Languages
 - Hindi: Fluent
