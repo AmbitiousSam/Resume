@@ -1,0 +1,152 @@
+KVS SIVA KUMAR
+DevOps Engineer
+
+Hyderabad
+9490647560
+
+Seeking challenging work opportunities that allow me to continue learning and developing as a computer scientist alongside a team of some of the best professionals in the field. 
+
+PERSONAL INFORMATION
+  Address: Door No-32-80/69/1/P, 3rd Street, Neredmet, RK Puram, Hyderabad, 500056
+  Date of birth:  
+  Nationality: 
+  Driving License: 
+  Hobbies: Reading Novels
+Basketball, Chess, Badminton
+Watching Netflix Series
+
+
+SOCIAL PROFILES
+  * Linkedin: https://www.linkedin.com/in/siva-kumar-0aa38110b/
+  * Github: https://github.com/AmbitiousSam/
+  * Twitter: https://twitter.com/sivakumar36688
+  * Bugcrowd: https://bugcrowd.com/sammy0304
+
+LANGUAGES
+  ★★★☆☆ English
+  ★★★★★ Hindi
+  ★★★★★ Telugu
+
+SKILLS
+  ★★★★☆ Git
+  ★★★★★ DevOps
+  ★★★★☆ AWS
+  ★★★★☆ Docker
+  ★★★★☆ Linux
+  ★★★★☆ Bash Scripting
+  ★★★☆☆ Node.js
+  ★★★☆☆ MySQL
+  ★★★☆☆ Selenium
+  ★★★☆☆ Java
+  ★★★☆☆ Python
+  ★★☆☆☆ Microsoft Azure
+  ★★☆☆☆ Google Cloud
+
+WORK EXPERIENCE
+  * July 2022 – Present
+    Associate Software Engineer at coMakeIT Software Pvt Ltd, Hyderabad
+      
+  Implemented and updated application modules under the direction of Senior Software Developers.
+  Developed automated scripts to simplify common tasks and reduce manual effort
+  Developed a DevOps strategy that increased the speed and reliability of application deployment
+  Developed a Continuous Integration/Continuous Deployment (CI/CD) pipeline that improved system reliability and uptime
+
+
+  * September 2021 – June 2022
+    Engineer Intern at coMakeIT Software Pvt Ltd, Hyderabad
+      
+  Developed a small airline project based on J2EE, JS, CSS.
+  Served as a dedicated and supportive Intern in a fast-paced environment.
+  Used Version Control Systems such as GitHub and Gitlab for source code management for the team.
+
+
+  * June 2021 – August 2021
+    Security Intern Research at Information Sharing and Analysis Center, Hyderabad
+      
+  Performed penetration tests on the various financial sector in India.
+  Exhibited strong managerial traits and the ability to serve as an effective leader.
+  Ensured network security by developing network access and performing evaluations.
+
+
+  * May 2021 – July 2021
+    Web Developer Intern at BlackBucks COE, Hyderabad
+      
+  Worked well independently and on a team to solve problems.
+  Organized and prioritized work to complete assignments in a timely, efficient manner.
+  Utilized a creative mindset and an innovative spirit.
+  Designed and developed a custom CMS for a web application that allowed for easy content management and updates for students.
+
+
+  * January 2021 – March 2021
+    CyberSecurity Intern at Virtually Testing Foundation, Hyderabad
+      
+  Worked with Kubernetes.
+  Played around with Software-Defined Data Center(ESXi, vCenter, DRS, Virtual Machines).
+  Learned Software-Defined Networking and Security(NSX, IDPS, URL analysis, Distributed Firewall).
+
+
+  * November 2020 – December 2020
+    CyberSecurity Research Intern at TechHack Technology, Hyderabad
+      
+  Prepared vulnerability study results for presentation along with my colleagues.
+  Performed vulnerability experiments and research over two weeks to test for SQL Injection (with WAF bypasses), OAuth, and JWT, and documented all findings.
+  Wrote demo Blogs explaining different Tools and vulnerabilities.
+
+
+  * October 2020 – November 2020
+    Winter Batch Intern at Hack-X Security, Hyderabad
+      
+  Underwent training for Network and Web Application Security. 
+  Wrote research on Wireless Security.
+  Built a Vulnerability Detecting tool using python and also bash scripting.
+
+
+
+EDUCATION
+  * July 2018 – July 2022
+    CMR Institute of Technology, Hyderbad Bachelors in Technology ( 8.27 GPA )
+  * April 2016 – June 2018
+    Narayan Jr. College, Hyderabad Higher Secondary ( 89.1 % )
+  * April 2015 – April 2016
+    Army Public School, Hyderabad Secondary ( 9.4 GPA )
+
+EXTRA-CURRICULAR ACTIVITIES
+  * 
+    First at Inter-Department Basketball competition at , 
+  * 
+    Appreciation from NCIIPC India at , 
+  * 
+    Bounty Reward from Cesppa at , 
+  * 
+    Appreciation from NCSC at , 
+
+SCORES
+  * GRE - 317, , 
+
+    Q - 167, V - 150, AWA - 3.0
+  * IELTS - 7.5, , 
+
+    L - 8.5, R - 8.0, S - 6.5, W - 7
+PERSONAL PROJECTS
+  * Rest Api Docker, , December 2021 – January 2022
+
+    
+  This Rest API Spring Boot Application is deployed using the DevOps Principles.
+  It has been integrated with Docker containers.
+  Continuous Integration with Jenkins CI.
+  This is was deployed to AWS Cloud (on free tier).
+
+  * XSS-Scanner, , 
+
+    
+  It is a simple bash script that scans for the XSS vulnerability for a target.
+  Firstly, it will spider the target, i.e.,  gather URLs of the target website.
+  Secondly, it will test for XSS for each URL of that website.
+  URL: XSS-Scanner
+
+  * Domain Name Information, , 
+
+    
+  This is a Python3 Script which gets the do- main name information. First the script verifies if the domain is register or not. If registered then it will try to get the DNS information using the python-whois module.
+  URL : Domain Name Information
+
