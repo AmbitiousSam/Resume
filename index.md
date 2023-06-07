@@ -1,32 +1,28 @@
 # KVS SIVA KUMAR
 ## DevOps Engineer
-Hyderabad, India  
-Phone: +91 9490647560  
+
+> [Download CV](./SivaKumar-CV.md)
 
 ## Profile
-Seeking challenging work opportunities that allow me to continue learning and developing as a computer scientist alongside a team of some of the best professionals in the field.
+Experienced DevOps Engineer with a successful track record in implementing incident resolution procedures, optimizing software delivery processes, and increasing system uptime. Continually seeking challenging opportunities to grow professionally.
 
-## Personal Information
-- Address: Door No-32-80/69/1/P, 3rd Street, Neredmet, RK Puram, Hyderabad, 500056
-- Date of birth: 
-- Nationality: 
-- Driving License: 
-- Hobbies: Reading Novels, Basketball, Chess, Badminton, Watching Netflix Series
-
-## Social Profiles
-- [Linkedin](https://www.linkedin.com/in/siva-kumar-0aa38110b/)
+<!-- ## Social Profiles & Contact Information
+- [Linkedin](https://www.linkedin.com/in/sivakumark1/)
 - [Github](https://github.com/AmbitiousSam/)
 - [Twitter](https://twitter.com/sivakumar36688)
 - [Bugcrowd](https://bugcrowd.com/sammy0304)
+- Phone: +91 9490647560 
+- Email: sk800489@gmail.com -->
 
 ## Languages
-- English: ★★★☆☆
-- Hindi: ★★★★★
-- Telugu: ★★★★★
+- Hindi: Fluent
+- Telugu: Fluent
+- English: Intermediate
 
+<!-- 
 ## Skills
-- Git: ★★★★☆
 - DevOps: ★★★★★
+- Git: ★★★★☆
 - AWS: ★★★★☆
 - Docker: ★★★★☆
 - Linux: ★★★★☆
@@ -37,56 +33,34 @@ Seeking challenging work opportunities that allow me to continue learning and de
 - Java: ★★★☆☆
 - Python: ★★★☆☆
 - Microsoft Azure: ★★☆☆☆
-- Google Cloud: ★★☆☆☆
+- Google Cloud: ★★☆☆☆ -->
 
-### WORK EXPERIENCE
-### Associate Software Engineer
-_coMakeIT Software Pvt Ltd, Hyderabad_  
-July 2022 – Present  
-- Led a team in implementing incident resolution procedures, successfully reducing technical production issues by over 60%, and increasing system uptime.
-- Developed and executed a tailored DevOps strategy that optimized software delivery processes, resulting in a 45% increase in application deployment speed and reliability.
-- Spearheaded the implementation of a robust CI/CD pipeline, leading to an improvement of 35% in system reliability and a significant increase in release velocity.
-- Administered enterprise backup and recovery systems, ensuring critical data protection and supporting business continuity plans.
-- Authored comprehensive system documentation, including system configurations, justifications for technical choices, and user training materials, fostering better team coordination and knowledge sharing.
+## Skills
+**Experienced in:**
+- DevOps practices and tools, including:
+  - Configuration management tools: Ansible, Chef, Puppet
+  - Continuous Integration/Continuous Deployment (CI/CD) tools: Jenkins, Travis CI, CircleCI
+  - Infrastructure as Code (IaC) tools: Terraform, CloudFormation
+  - Containerization and orchestration tools: Docker, Kubernetes
+  - Monitoring and log management tools: Prometheus, ELK stack, Nagios, Papertrail
+  - Source code management tools: Git, GitHub, GitLab
+  - Cloud platforms: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+  - Scripting languages: Bash, Python
 
-### Engineer Intern
-_coMakeIT Software Pvt Ltd, Hyderabad_  
-September 2021 – June 2022  
-- Contributed to the development of a complex airline management project, utilizing J2EE, JS, CSS, and improving my full-stack development skills.
-- Adopted version control systems like GitHub and Gitlab, facilitating efficient code management, reducing merge conflicts, and maintaining code quality across the team.
-- Proved adaptability and resilience in a high-pressure environment, mastering task prioritization and time management to meet tight deadlines.
+**Frontend:**
+- HTML, CSS, JavaScript
+- Frontend frameworks: React, Angular, Vue.js
 
-### Security Intern Research
-_Information Sharing and Analysis Center, Hyderabad_  
-June 2021 – August 2021  
-- Led rigorous penetration testing initiatives across various financial sectors in India, helping identify and rectify potential vulnerabilities and fortifying network security.
-- Demonstrated effective leadership, managing a small team of interns and fostering a collaborative and efficient work environment.
+**Backend:**
+- Node.js
+- Java
+- Python
+- PHP
+- Database management: MySQL, PostgreSQL, MongoDB
 
-### Web Developer Intern
-_Black Bucks COE, Hyderabad_  
-May 2021 – July 2021  
-- Employed problem-solving skills to address complex technical challenges, contributing significantly to the timely completion of web development projects.
-- Pioneered the design and development of a custom CMS for a web application, enhancing the user experience by allowing easy content management and updates.
-
-### CyberSecurity Intern
-_Virtually Testing Foundation, Hyderabad_  
-January 2021 – March 2021  
-- Gained practical exposure to Kubernetes and Software-Defined Data Center technologies, broadening my knowledge of modern network architecture.
-- Developed a keen understanding of Software-Defined Networking and Security principles, enhancing my ability to secure network systems.
-
-### CyberSecurity Research Intern
-_TechHack Technology, Hyderabad_  
-November 2020 – December 2020  
-- Collaborated with a team of cybersecurity experts to prepare comprehensive vulnerability study results for presentations to stakeholders.
-- Conducted intensive vulnerability testing experiments over a two-week period, focusing on SQL Injection (with WAF bypasses), OAuth, and JWT. Documented all findings to improve security practices.
-- Authored instructional blogs that detailed the use of various cybersecurity tools and vulnerabilities, enhancing awareness and knowledge sharing within the organization.
-
-### Winter Batch Intern
-_Hack-X Security, Hyderabad_  
-October 2020 – November 2020  
-- Participated in rigorous training programs for Network and Web Application Security, gaining substantial knowledge in critical cybersecurity areas.
-- Authored a detailed research paper on Wireless Security, contributing to the organization's knowledge base and training resources.
-- Developed a vulnerability detection tool using Python and Bash scripting, enhancing the efficiency of the organization's security auditing processes.
+**Familiar with:**
+- Selenium testing
+- DigitalOcean, Microsoft Azure and Google Cloud services
 
 
 ## Education
@@ -103,11 +77,9 @@ October 2020 – November 2020
   April 2015 - April 2016 ( 9.4 GPA )
 
 ## Extra-Curricular Activities
-- First at Inter-Department Basketball competition.
-- Appreciation from NCIIPC India.
-- Bounty Reward from Cesppa.
-- Appreciation from NCSC.
-
+- Appreciation from NCIIPC India
+- Bounty Reward from Cesppa
+- Appreciation from NCSC
 
 ## Personal Projects
 ### [Rest Api Docker](url to be added)
@@ -131,3 +103,4 @@ December 2021 – January 2022
 ## Scores
 - GRE - 317 (Q - 167, V - 150, AWA - 3.0)
 - IELTS - 7.5 (L - 8.5, R - 8.0, S - 6.5, W - 7)
+
