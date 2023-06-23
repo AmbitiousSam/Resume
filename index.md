@@ -1,6 +1,3 @@
----
-title: Home
----
 # KVS SIVA KUMAR
 ## DevOps Engineer
 
@@ -51,9 +48,7 @@ Experienced DevOps Engineer with a successful track record in implementing incid
 - Selenium testing
 - DigitalOcean, Microsoft Azure and Google Cloud services
 
----
-title: Experience
----
+
 ### WORK EXPERIENCE
 ### Associate Software Engineer
 _coMakeIT Software Pvt Ltd, Hyderabad_  
