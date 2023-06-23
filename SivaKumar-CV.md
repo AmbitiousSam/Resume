@@ -1,7 +1,7 @@
 ##### A self-directed DevOps Engineer seeking a challenging role that allows me to leverage my problem-solving skills and technical knowledge. Experienced in working in fast-paced environments and managing multiple competing priorities simultaneously. I thrive on complex issues, and my strong troubleshooting abilities are backed by a record of delivering solutions in a timely manner.
 
 ### PERSONAL INFORMATION
-Address: Door No-32-80/69/1/P, 3rd Street, Neredmet, RK Puram, Hyderabad, 500056  
+Address: Hyderabad, India  
 Hobbies: Reading Novels, Basketball, Chess, Badminton, Watching Netflix Series  
 
 ### SOCIAL PROFILES
